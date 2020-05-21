@@ -20,7 +20,7 @@ lis3mdl -X start
 ist8310 -X start
 qmc5883 -X start
 rm3100 -X start
-
+vl53lxx -X start 
 # Internal SPI
 ms5611 -s start
 

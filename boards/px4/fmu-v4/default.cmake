@@ -54,6 +54,7 @@ px4_add_board(
 		test_ppm
 		tone_alarm
 		uavcan
+
 	MODULES
 		airspeed_selector
 		attitude_estimator_q
@@ -123,4 +124,6 @@ px4_add_board(
 		rover_steering_control # Rover example app
 		uuv_example_app
 		work_item
+		hello_world
 	)
+

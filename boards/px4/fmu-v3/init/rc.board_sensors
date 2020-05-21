@@ -13,7 +13,7 @@ lis3mdl -X start
 ist8310 -X start
 qmc5883 -X start
 rm3100 -X start
-
+vl53l0x -X start
 # Internal I2C bus
 hmc5883 -T -I -R 4 start
 
